@@ -1,0 +1,51 @@
+body{
+    padding: 20px 80px 20px 80px;
+    border-top: 4px solid rgba(41, 80, 147, 1);
+}
+.logo{
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(140, 137, 137, 0.25);
+    border-radius: 5px;
+    padding: 5px;
+}
+.navigation{
+    background: #fff;
+    box-shadow: 0 2px 6px rgba(140, 137, 137, 0.25);
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.info-banner{
+    background-color: #F6F6F9;
+    margin-top: 40px;
+    width: 1360px;
+    height: 133px;
+    padding: 35px 45px 35px 45px;
+}
+.bannerborder{
+    background-color: rgba(235, 85, 105, 1);
+    width: 3px;
+    height: 65px;
+    margin-left: 350px;
+    position: absolute;
+}
+.borderbanner{
+    background-color: rgba(244, 204, 209, 1);
+    width: 2px;
+    height: 50px;
+    margin-left: 700px;
+    margin-top: 4px;
+    position: absolute;
+}
+.borderbanner2{
+    background-color: rgba(244, 204, 209, 1);
+    width: 2px;
+    height: 50px;
+    margin-left: 980px;
+    margin-top: 4px;
+    position: absolute;
+}
+.bildirishnoma{
+    background-color: rgba(239, 186, 84, 0.18);
+    border-radius: 5px;
+    padding: 25px;
+}
